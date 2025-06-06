@@ -1,0 +1,1 @@
+This will be a Arch Linux like os for Open Computers.

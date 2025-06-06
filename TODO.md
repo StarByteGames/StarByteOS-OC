@@ -1,0 +1,3 @@
+- Fix mount
+- Add installer script
+- Add pacman like lib
